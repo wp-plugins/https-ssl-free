@@ -2,7 +2,7 @@
 /*
 Plugin Name: Https SSL Free
 Plugin URI: http://mediusproject.org
-Description: This plugin allows you to log into your wordpress using the free https service from medius project inc.
+Description: This plugin allows you to log into your wordpress using the free https service from intosecure inc.
 Version: 1.0.1
 Author: Medius Project
 Coded by: Leandro D. Pompeo (lp at mediusproject.org)
