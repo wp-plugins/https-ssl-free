@@ -1,6 +1,6 @@
 === Https SSL Free ===
 Contributors: mediusproject
-Donate link: http://mediusproject.org/
+Donate link: http://mediusproject.org/donate-2/
 Tags: privacy, security, https, ssl
 Requires at least: 1.0.1
 Tested up to: 1.0.1
@@ -41,6 +41,8 @@ exchange through this proxy, but also allows sites to provide the https:// URLS 
 Medius Project’s goal is to provide this service for free.
 
 For more information please visit http://mediusproject.org and http://intosecure.com/info-det.html
+
+Donate to this plugin http://mediusproject.org/donate-2/ 
 
 Special thanks to Mika Epstein for all the help.
 
