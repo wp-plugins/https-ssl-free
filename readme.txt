@@ -42,8 +42,6 @@ Medius Project’s goal is to provide this service for free.
 
 For more information please visit http://mediusproject.org and http://intosecure.com/info-det.html
 
-Donate to this plugin http://mediusproject.org/donate-2/ 
-
 Special thanks to Mika Epstein for all the help.
 
 
