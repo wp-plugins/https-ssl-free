@@ -52,6 +52,7 @@ function convert ($scheme) {
 
     // Update the db with the url converted
     update_option('siteurl', $converted_host);
+    update_option('home', $converted_host);
 }
 
 /**

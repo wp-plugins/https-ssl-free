@@ -58,6 +58,9 @@ Special thanks to Mika Epstein for all the help.
 
 == Changelog ==
 
+= 1.0.2 =
+* Fixed customize theme (session expired)
+
 = 1.0.1 =
 * Improvement convert function
 * Fixed stylesheet url
