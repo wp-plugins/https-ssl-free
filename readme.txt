@@ -1,6 +1,6 @@
 === Https SSL Free ===
 Contributors: mediusproject
-Donate link: http://mediusproject.org/
+Donate link: http://mediusproject.org/donate-2/
 Tags: privacy, security, https, ssl
 Requires at least: 1.0.1
 Tested up to: 1.0.1

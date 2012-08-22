@@ -104,8 +104,6 @@ add_filter('logout_url', 'http_to_https');
 /**
  * Rewrite core function bloginfo
  */
-
-
 function bloginfo_mp_rep ($data) {
     $data = str_replace('_', '.', $data);
     $data = str_replace('https', 'http', $data);
