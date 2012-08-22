@@ -3,7 +3,7 @@
 Plugin Name: Https SSL Free
 Plugin URI: http://mediusproject.org
 Description: This plugin allows you to log into your wordpress using the free https service from intosecure inc.
-Version: 1.0.2
+Version: 1.0.1
 Author: Medius Project
 Coded by: Leandro D. Pompeo (lp at mediusproject.org)
 Idea by: Andrés Meggiotto (am at mediusproject.org)
@@ -52,7 +52,6 @@ function convert ($scheme) {
 
     // Update the db with the url converted
     update_option('siteurl', $converted_host);
-    update_option('home', $converted_host);
 }
 
 /**
@@ -105,6 +104,8 @@ add_filter('logout_url', 'http_to_https');
 /**
  * Rewrite core function bloginfo
  */
+
+
 function bloginfo_mp_rep ($data) {
     $data = str_replace('_', '.', $data);
     $data = str_replace('https', 'http', $data);

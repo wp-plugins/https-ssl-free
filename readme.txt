@@ -1,10 +1,10 @@
 === Https SSL Free ===
 Contributors: mediusproject
-Donate link: http://mediusproject.org/donate-2/
+Donate link: http://mediusproject.org/
 Tags: privacy, security, https, ssl
 Requires at least: 1.0.1
-Tested up to: 1.0.2
-Stable tag: 1.0.2
+Tested up to: 1.0.1
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -57,9 +57,6 @@ Special thanks to Mika Epstein for all the help.
 
 
 == Changelog ==
-
-= 1.0.2 =
-* Fixed customize theme (session expired)
 
 = 1.0.1 =
 * Improvement convert function
